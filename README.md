@@ -30,27 +30,27 @@ It is built using **Python, NumPy, and Matplotlib**, making it easy to run and e
 
 ## ⚙️ Features
 
-✅ Compute **dot product** of two vectors
-✅ Compute **cross product** (2D & 3D supported)
-✅ Find **magnitude** of each vector
-✅ Calculate **angle between vectors**
-✅ Optional **2D/3D visualization** using Matplotlib
-✅ Clean, well-structured Python script
+- ✅ Compute **dot product** of two vectors
+- ✅ Compute **cross product** (2D & 3D supported)
+- ✅ Find **magnitude** of each vector
+- ✅ Calculate **angle between vectors**
+- ✅ Optional **2D/3D visualization** using Matplotlib
+- ✅ Clean, well-structured Python script
 
 ---
 
 ## 📊 Demo Output
 
-Example (Input vectors: `A = [1,2,3]`, `B = [4,5,6]`):
+Example (Input vectors: `A = [3, 4]`, `B = [-1, 2]`):
 
 ```
-Vector A: [1. 2. 3.]
-Vector B: [4. 5. 6.]
-Magnitude A: 3.741657
-Magnitude B: 8.774964
-Dot product: 32.000000
-Cross product: [-3  6 -3]
-Angle between (in degrees): 12.933154
+Vector A: [3. 4.]
+Vector B: [-1.  2.]
+Magnitude A: 5.000000
+Magnitude B: 2.236068
+Dot product: 5.000000
+Cross product: 10.0
+Angle between (in degrees): 63.434949
 ```
 
 ### 2D Plot Example
